@@ -18,7 +18,7 @@ int findDivisor(int x)
 
 int main()
 {
-    cout << findDivisor(10);
+    cout << findDivisor(97);
     return 0;
 }
 
