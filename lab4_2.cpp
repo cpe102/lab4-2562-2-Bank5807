@@ -10,7 +10,7 @@ double findDistance(double u, double a, double t)
 int main()
 {
   //Calling findDistance() using test cases
-    cout << findDistance(0,0.5,1) << endl;
+    cout << findDistance(0,0.5,1);
     return 0;
 }
 
